@@ -51,6 +51,7 @@ local.properties
 projectFilesBackup
 captures
 *.iml
+app/
 
 /app/src/main/res/values-in/strings.xml
 /app/src/main/res/values-iw/strings.xml
